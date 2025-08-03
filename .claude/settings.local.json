@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew:*)",
+      "Bash(taskkill:*)",
+      "WebFetch(domain:moonjunwon.app.n8n.cloud)",
+      "WebFetch(domain:docs.n8n.io)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
