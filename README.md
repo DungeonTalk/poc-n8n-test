@@ -1,6 +1,11 @@
 # n8n Chat Application
 
 n8n 웹훅과 연동되는 실시간 채팅 애플리케이션입니다. Spring Boot와 Node.js 두 가지 백엔드 구현을 제공합니다.
+<img width="864" height="504" alt="스크린샷 2025-08-03 180755" src="https://github.com/user-attachments/assets/65304bdd-61ed-4ed2-8ff3-6f296cbe2326" />
+<img width="1023" height="370" alt="스크린샷 2025-08-03 140056" src="https://github.com/user-attachments/assets/742beae2-7b13-4ec7-8d58-665ab39077f2" />
+<img width="480" height="419" alt="스크린샷 2025-08-03 180857" src="https://github.com/user-attachments/assets/40892588-3be1-4552-ac2b-bef00425186f" />
+<img width="1267" height="400" alt="스크린샷 2025-08-03 180801" src="https://github.com/user-attachments/assets/35eceddd-decb-48c7-9082-92bc21f8e122" />
+<img width="1559" height="802" alt="스크린샷 2025-08-03 140210" src="https://github.com/user-attachments/assets/12ff4004-4213-4fef-8aaa-1bef87bba092" />
 
 ## 📋 목차
 
